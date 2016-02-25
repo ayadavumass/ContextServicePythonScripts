@@ -1,0 +1,7 @@
+set_default_gns 10.255.255.231 24398
+gns_connect 10.255.255.231 24398
+account_create gnsumass@gmail.com adi
+account_verify gnsumass@gmail.com 161A67
+guid_use gnsumass@gmail.com
+set_default_guid gnsumass@gmail.com
+quit

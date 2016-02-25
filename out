@@ -1,0 +1,2821 @@
+N 1.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 34.0603236308
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 29.3596740548
+N 51.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 772.708636509
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 51.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 66.0015917907
+N 101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 1334.19542492
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 75.7010540689
+N 151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 1840.21800273
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 82.0554954771
+N 201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 2313.15288091
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 86.8943862978
+N 251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 2762.87344823
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 90.8474473057
+N 301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 3194.90165193
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 94.2126027002
+N 351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 3612.74148369
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 97.156135191
+N 401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 4018.80160285
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 99.7809893664
+N 451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 4414.83241169
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 102.155633089
+N 501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 4802.15923028
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 104.328069099
+N 551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 5181.8177226
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 106.333342757
+N 601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 5554.6377592
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 108.197874651
+N 651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 5921.29802601
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 109.942110183
+N 701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 6282.36305494
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 111.582217371
+N 751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 6638.30918799
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 113.131217413
+N 801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 6989.5433
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 114.599762191
+N 851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 12479651386.0 currH 62398256930.0
+currX 6239818479.0 currH 31199092391.0
+currX 3119905634.0 currH 15599528166.0
+currX 1559951016.0 currH 7799755076.0
+currX 779974609.0 currH 3899873042.0
+currX 389986857.0 currH 1949934281.0
+currX 194993206.0 currH 974966028.0
+currX 97496493.0 currH 487482465.0
+currX 48748194.0 currH 243740966.0
+currX 24374072.0 currH 121870357.0
+currX 12187025.0 currH 60935123.0
+currX 12187025.0 currH 60935123.0
+currX 12187025.0 currH 60935123.0
+currX 12172590.0 currH 60862948.0
+currX 12179799.0 currH 60898993.0
+currX 12183408.0 currH 60917037.0
+currX 12185214.0 currH 60926069.0
+currX 12186119.0 currH 60930591.0
+currX 12186571.0 currH 60932854.0
+currX 12186798.0 currH 60933988.0
+currX 12186911.0 currH 60934555.0
+currX 12186968.0 currH 60934839.0
+currX 12186997.0 currH 60934981.0
+currX 12187011.0 currH 60935052.0
+currX 12187011.0 currH 60935052.0
+currX 12187011.0 currH 60935052.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 815889434.18
+            Iterations: 3
+            Function evaluations: 29
+            Gradient evaluations: 3
+[ 60935051.53468524]
+Nodes 851.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 77.0896788582
+N 901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 13195354380.0 currH 65976771896.0
+currX 6597670367.0 currH 32988351831.0
+currX 3298831773.0 currH 16494158865.0
+currX 1649414183.0 currH 8247070915.0
+currX 824706242.0 currH 4123531206.0
+currX 412352697.0 currH 2061763485.0
+currX 206176139.0 currH 1030880691.0
+currX 103087966.0 currH 515439827.0
+currX 51543933.0 currH 257719662.0
+currX 25771943.0 currH 128859713.0
+currX 12885961.0 currH 64429805.0
+currX 12885961.0 currH 64429805.0
+currX 12885961.0 currH 64429805.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 892983197.459
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[ 64429804.60636814]
+Nodes 901.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 77.9751395912
+N 951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 8018.26778961
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 118.604170496
+N 1001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 8353.75226879
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 119.826392714
+N 1051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 8685.90042037
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 121.000696432
+N 1101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 9014.90195306
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 122.131111989
+N 1151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 9340.92768808
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 123.221165867
+N 1201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 9664.13217667
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 124.273962529
+N 1251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 9984.65586112
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 125.292250169
+N 1301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 10302.626874
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 126.278474015
+N 1351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 10618.1625479
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 127.234819951
+N 1401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 10931.3706906
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 128.163250488
+N 1451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 11242.3506702
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 129.065534652
+N 1501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 11551.1943431
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 129.943272999
+N 1551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 11857.9868528
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 130.797918673
+N 1601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 12162.8073205
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 131.630795245
+N 1651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 12465.7294454
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 132.443111912
+N 1701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 12766.8220293
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 133.23597651
+N 1751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 13066.1494355
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 134.010406711
+N 1801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 13363.7719943
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 134.767339698
+N 1851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 13659.7463595
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 135.507640573
+N 1901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 13954.1258264
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 136.232109675
+N 1951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 14246.960613
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 1951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 136.941488995
+N 2001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 14538.2981127
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 137.636467796
+N 2051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 14828.1831191
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 138.317687577
+N 2101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 15116.6580284
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 138.985746456
+N 2151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 15403.763022
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 139.641203058
+N 2201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 15689.5362305
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 140.284579969
+N 2251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 15974.0138828
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 140.916366827
+N 2301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 16257.2304408
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 141.537023073
+N 2351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 16539.2187223
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 142.146980428
+N 2401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 16820.0100122
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 142.746645112
+N 2451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 17099.6341652
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 143.336399851
+N 2501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 17378.1196981
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 143.916605677
+N 2551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 17655.4938763
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 144.487603569
+N 2601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 17931.782791
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 145.049715933
+N 2651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 18207.0114322
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 145.60324795
+N 2701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 18481.2037549
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 146.148488801
+N 2751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 18754.3827397
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 146.685712784
+N 2801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 19026.5704502
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 147.215180336
+N 2851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 19297.7880848
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 147.737138965
+N 2901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 19568.0560253
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 148.251824108
+N 2951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 19837.393882
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 2951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 148.759459914
+N 3001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 20105.8205352
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 149.26025997
+N 3051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 20373.3541743
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 149.75442796
+N 3101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 43050741973.0 currH 2.15253709863e+11
+currX 21525369594.0 currH 1.07626847969e+11
+currX 10762684103.0 currH 53813420511.0
+currX 5381341706.0 currH 26906708526.0
+currX 2690670682.0 currH 13453353406.0
+currX 1345335257.0 currH 6726676282.0
+currX 672667588.0 currH 3363337938.0
+currX 336333775.0 currH 1681668875.0
+currX 168166880.0 currH 840834398.0
+currX 84083438.0 currH 420417187.0
+currX 42041719.0 currH 210208595.0
+currX 42041719.0 currH 210208595.0
+currX 42041719.0 currH 210208595.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 6181811945.61
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  2.10208595e+08]
+Nodes 3101.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 99.8443185622
+N 3151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 20905.8119273
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 150.723636612
+N 3201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 21170.7692786
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 151.199040426
+N 3251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 21434.9001515
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 151.668539486
+N 3301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 45654405278.0 currH 2.28272026387e+11
+currX 22827200669.0 currH 1.14136003341e+11
+currX 11413599351.0 currH 57067996751.0
+currX 5706799185.0 currH 28533995923.0
+currX 2853399349.0 currH 14266996743.0
+currX 1426699554.0 currH 7133497770.0
+currX 713349719.0 currH 3566748592.0
+currX 356674832.0 currH 1783374157.0
+currX 178337404.0 currH 891687017.0
+currX 89168697.0 currH 445843485.0
+currX 44584348.0 currH 222921738.0
+currX 44584348.0 currH 222921738.0
+currX 44584348.0 currH 222921738.0
+currX 44580402.0 currH 222902009.0
+currX 44582375.0 currH 222911873.0
+currX 44583361.0 currH 222916805.0
+currX 44583855.0 currH 222919272.0
+currX 44584101.0 currH 222920505.0
+currX 44584225.0 currH 222921122.0
+currX 44584286.0 currH 222921430.0
+currX 44584317.0 currH 222921584.0
+currX 44584333.0 currH 222921661.0
+currX 44584340.0 currH 222921700.0
+currX 44584344.0 currH 222921719.0
+currX 44584344.0 currH 222921719.0
+currX 44584344.0 currH 222921719.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 6811336212.17
+            Iterations: 3
+            Function evaluations: 29
+            Gradient evaluations: 3
+[  2.22921719e+08]
+Nodes 3301.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 101.100301298
+N 3351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 21960.7428799
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 152.590466467
+N 3401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 22222.4837013
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 153.043199208
+N 3451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 22483.456023
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 153.490637581
+N 3501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 22743.673188
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 153.932918885
+N 3551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 48890135838.0 currH 2.44450679186e+11
+currX 24445066079.0 currH 1.22225330393e+11
+currX 12222532121.0 currH 61112660604.0
+currX 6111265603.0 currH 30556328013.0
+currX 3055632574.0 currH 15278162869.0
+currX 1527816175.0 currH 7639080874.0
+currX 763908033.0 currH 3819540164.0
+currX 381953991.0 currH 1909769953.0
+currX 190976984.0 currH 954884920.0
+currX 95488488.0 currH 477442439.0
+currX 47744244.0 currH 238721217.0
+currX 47744244.0 currH 238721217.0
+currX 47744244.0 currH 238721217.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 7627589792.04
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  2.38721216e+08]
+Nodes 3551.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 102.58736071
+N 3601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 23261.893345
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 154.802532476
+N 3651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 23519.9210038
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 155.230113205
+N 3701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 50822038852.0 currH 2.54110194257e+11
+currX 25411017656.0 currH 1.27055088278e+11
+currX 12705507945.0 currH 63527539721.0
+currX 6352753532.0 currH 31763767659.0
+currX 3176376548.0 currH 15881882736.0
+currX 1588188166.0 currH 7940940829.0
+currX 794094031.0 currH 3970470153.0
+currX 397046991.0 currH 1985234953.0
+currX 198523485.0 currH 992617422.0
+currX 99261739.0 currH 496308692.0
+currX 49630869.0 currH 248154344.0
+currX 49630869.0 currH 248154344.0
+currX 49630869.0 currH 248154344.0
+currX 49627325.0 currH 248136621.0
+currX 49629097.0 currH 248145482.0
+currX 49629983.0 currH 248149912.0
+currX 49630426.0 currH 248152128.0
+currX 49630648.0 currH 248153236.0
+currX 49630758.0 currH 248153790.0
+currX 49630814.0 currH 248154067.0
+currX 49630841.0 currH 248154205.0
+currX 49630855.0 currH 248154275.0
+currX 49630862.0 currH 248154309.0
+currX 49630866.0 currH 248154326.0
+currX 49630866.0 currH 248154326.0
+currX 49630866.0 currH 248154326.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 8132549517.09
+            Iterations: 3
+            Function evaluations: 29
+            Gradient evaluations: 3
+[  2.48154326e+08]
+Nodes 3701.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 103.439817004
+N 3751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 24033.8703826
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 156.071408404
+N 3801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 24289.8146226
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 156.485344127
+N 3851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 24545.0863661
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 156.894946001
+N 3901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 24799.6960777
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 157.300314801
+N 3951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 25053.6539275
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 3951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 157.701547704
+N 4001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 25306.9698027
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 158.098738458
+N 4051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 25559.6533189
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 158.49197755
+N 4101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 25811.7138311
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 158.881352352
+N 4151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 26063.1604435
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 159.266947268
+N 4201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 26314.0020194
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 159.64884387
+N 4251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 26564.2471903
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 160.027121023
+N 4301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 26813.9043645
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 160.401855005
+N 4351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 27062.9817355
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 160.773119626
+N 4401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 27311.4872899
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 161.140986329
+N 4451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 27559.4288151
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 161.505524293
+N 4501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 27806.8139058
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 161.866800535
+N 4551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 28053.6499718
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 162.224879991
+N 4601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 28299.9442436
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 162.579825614
+N 4651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 28545.7037792
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 162.931698443
+N 4701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 28790.9354697
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 163.280557693
+N 4751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 29035.6460454
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 163.626460819
+N 4801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 29279.8420805
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 163.969463592
+N 4851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 29523.5299992
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 164.309620162
+N 4901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 29766.7160798
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 164.646983123
+N 4951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 30009.4064599
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 4951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 164.981603572
+N 5001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 30251.607141
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 165.313531168
+N 5051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 30493.3239926
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 165.642814185
+N 5101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 30734.5627566
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 165.969499563
+N 5151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 30975.3290511
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 166.293632959
+N 5201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 31215.6283744
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 166.615258794
+N 5251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 31455.4661085
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 166.934420297
+N 5301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 31694.8475228
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 167.251159551
+N 5351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 31933.7777777
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 167.56551753
+N 5401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 32172.2619272
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 167.877534139
+N 5451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 32410.3049228
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 168.187248253
+N 5501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 32647.9116159
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 168.494697753
+N 5551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 32885.0867613
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 168.799919559
+N 5601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 33121.8350193
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 169.102949663
+N 5651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 33358.160959
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 169.403823159
+N 5701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 33594.0690605
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 169.702574277
+N 5751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 33829.5637177
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 169.999236408
+N 5801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 34064.6492402
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 170.293842132
+N 5851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 34299.3298564
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 170.586423248
+N 5901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 34533.6097149
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 170.877010794
+N 5951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 34767.4928871
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 5951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 171.165635075
+N 6001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 35000.9833694
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 171.452325687
+N 6051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 35234.0850848
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 171.737111534
+N 6101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 35466.8018851
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 172.020020857
+N 6151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 35699.1375527
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 172.301081249
+N 6201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 35931.0958025
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 172.580319679
+N 6251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 36162.6802834
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 172.857762506
+N 6301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 36393.8945803
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 173.133435503
+N 6351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 36624.7422153
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 173.407363871
+N 6401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 36855.2266499
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 173.679572257
+N 6451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 37085.351286
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 173.950084772
+N 6501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 37315.1194674
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 174.218925004
+N 6551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 37544.5344815
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 174.486116034
+N 6601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 37773.5995606
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 174.751680454
+N 6651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 87665765551.0 currH 4.38328827751e+11
+currX 43832881750.0 currH 2.19164408748e+11
+currX 21916440364.0 currH 1.09582201817e+11
+currX 10958219928.0 currH 54791099638.0
+currX 5479109839.0 currH 27395549191.0
+currX 2739554858.0 currH 13697774289.0
+currX 1369777400.0 currH 6848886999.0
+currX 684888687.0 currH 3424443434.0
+currX 342444339.0 currH 1712221692.0
+currX 171222169.0 currH 856110841.0
+currX 85611086.0 currH 428055426.0
+currX 85611086.0 currH 428055426.0
+currX 85611086.0 currH 428055426.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 20104975316.4
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  4.28055425e+08]
+Nodes 6651.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 116.306393201
+N 6701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 38230.6925747
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 175.278017444
+N 6751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 38458.7267101
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 175.53883286
+N 6801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 38686.423314
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 175.798107383
+N 6851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 38913.7853618
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 176.055861343
+N 6901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 39140.8157815
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 176.312114661
+N 6951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 39367.5174543
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 6951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 176.566886852
+N 7001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 39593.8932161
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 176.820197039
+N 7051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 39819.9458579
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 177.072063964
+N 7101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 40045.6781274
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 177.322506
+N 7151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 40271.0927297
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 177.571541155
+N 7201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 40496.1923284
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 177.819187088
+N 7251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 40720.9795464
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 178.065461115
+N 7301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 40945.4569668
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 178.310380219
+N 7351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 41169.6271338
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 178.553961057
+N 7401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 41393.4925537
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 178.796219971
+N 7451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 97358416858.0 currH 4.8679208429e+11
+currX 48679207506.0 currH 2.43396037528e+11
+currX 24339603293.0 currH 1.21698016463e+11
+currX 12169801418.0 currH 60849007088.0
+currX 6084900596.0 currH 30424502980.0
+currX 3042450243.0 currH 15212251215.0
+currX 1521225096.0 currH 7606125478.0
+currX 760612537.0 currH 3803062682.0
+currX 380306264.0 currH 1901531320.0
+currX 190153132.0 currH 950765657.0
+currX 95076567.0 currH 475382835.0
+currX 95076567.0 currH 475382835.0
+currX 95076567.0 currH 475382835.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 23944206462.2
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  4.75382834e+08]
+Nodes 7451.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 118.978760686
+N 7501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 41840.3189912
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 179.276835857
+N 7551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 42063.2848383
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 179.515224002
+N 7601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 42285.9555986
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 179.752352582
+N 7651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 42508.3335998
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 179.988236472
+N 7701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 1.00366180875e+11 currH 5.01830904372e+11
+currX 50183089542.0 currH 2.50915447708e+11
+currX 25091544325.0 currH 1.25457721622e+11
+currX 12545771941.0 currH 62728859702.0
+currX 6272885861.0 currH 31364429304.0
+currX 3136442878.0 currH 15682214386.0
+currX 1568221414.0 currH 7841107068.0
+currX 784110696.0 currH 3920553479.0
+currX 392055344.0 currH 1960276719.0
+currX 196027672.0 currH 980138357.0
+currX 98013837.0 currH 490069185.0
+currX 98013837.0 currH 490069185.0
+currX 98013837.0 currH 490069185.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 25190548034.3
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  4.90069185e+08]
+Nodes 7701.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 119.766688935
+N 7751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 42952.2204701
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 180.456328338
+N 7801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 43173.7338304
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 180.688564734
+N 7851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 43394.9634153
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 180.919613294
+N 7901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 1.02765511669e+11 currH 5.13827558343e+11
+currX 51382754960.0 currH 2.56913774798e+11
+currX 25691377044.0 currH 1.28456885219e+11
+currX 12845688306.0 currH 64228441527.0
+currX 6422844046.0 currH 32114220230.0
+currX 3211421972.0 currH 16057109856.0
+currX 1605710962.0 currH 8028554806.0
+currX 802855470.0 currH 4014277349.0
+currX 401427732.0 currH 2007138656.0
+currX 200713866.0 currH 1003569326.0
+currX 100356934.0 currH 501784670.0
+currX 100356934.0 currH 501784670.0
+currX 100356934.0 currH 501784670.0
+currX 100355181.0 currH 501775905.0
+currX 100356058.0 currH 501780287.0
+currX 100356496.0 currH 501782478.0
+currX 100356715.0 currH 501783574.0
+currX 100356825.0 currH 501784122.0
+currX 100356880.0 currH 501784396.0
+currX 100356907.0 currH 501784533.0
+currX 100356921.0 currH 501784601.0
+currX 100356927.0 currH 501784635.0
+currX 100356931.0 currH 501784652.0
+currX 100356933.0 currH 501784661.0
+currX 100356933.0 currH 501784661.0
+currX 100356933.0 currH 501784661.0
+currX 100348168.0 currH 501740837.0
+currX 100352550.0 currH 501762747.0
+currX 100354741.0 currH 501773703.0
+currX 100355837.0 currH 501779182.0
+currX 100356385.0 currH 501781921.0
+currX 100356659.0 currH 501783291.0
+currX 100356796.0 currH 501783976.0
+currX 100356864.0 currH 501784318.0
+currX 100356898.0 currH 501784490.0
+currX 100356915.0 currH 501784575.0
+currX 100356924.0 currH 501784618.0
+currX 100356924.0 currH 501784618.0
+currX 100356924.0 currH 501784618.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 26203150838.2
+            Iterations: 4
+            Function evaluations: 42
+            Gradient evaluations: 4
+[  5.01784618e+08]
+Nodes 7901.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 120.382428303
+N 7951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 43836.5798986
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 7951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 181.378201
+N 8001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 44056.9710417
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 181.605766598
+N 8051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 1.0456109467e+11 currH 5.22805473346e+11
+currX 52280546475.0 currH 2.61402732375e+11
+currX 26140272809.0 currH 1.30701364045e+11
+currX 13070136192.0 currH 65350680959.0
+currX 6535067991.0 currH 32675339955.0
+currX 3267533945.0 currH 16337669723.0
+currX 1633766949.0 currH 8168834742.0
+currX 816883464.0 currH 4084417319.0
+currX 408441729.0 currH 2042208641.0
+currX 204220864.0 currH 1021104319.0
+currX 102110434.0 currH 510552166.0
+currX 102110434.0 currH 510552166.0
+currX 102110434.0 currH 510552166.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 26971552378.5
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  5.10552166e+08]
+Nodes 8051.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 120.836100538
+N 8101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 44496.9295252
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 182.057505685
+N 8151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 44716.5009382
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 182.28170427
+N 8201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 44935.8031349
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 182.504805253
+N 8251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 45154.8380836
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 182.726820651
+N 8301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 45373.6077266
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 182.947762277
+N 8351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 45592.1139804
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 183.167641746
+N 8401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 45810.3587362
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 183.386470479
+N 8451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 46028.3438607
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 183.604259705
+N 8501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 46246.0711961
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8501.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 183.82102047
+N 8551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 46463.5425607
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 184.036763637
+N 8601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 46680.7597497
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 184.251499893
+N 8651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 46897.724535
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 184.465239748
+N 8701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 47114.4386665
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 184.677993547
+N 8751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 47330.9038714
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 184.889771465
+N 8801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 47547.1218555
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 185.100583517
+N 8851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 47763.0943034
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 185.310439558
+N 8901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 47978.8228786
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 185.519349287
+N 8951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 48194.309224
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 8951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 185.727322253
+N 9001.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 48409.5549625
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9001.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 185.934367853
+N 9051.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 48624.5616971
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9051.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 186.14049534
+N 9101.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 48839.3310113
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9101.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 186.345713824
+N 9151.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 49053.8644695
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9151.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 186.550032275
+N 9201.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 49268.1636173
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9201.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 186.753459526
+N 9251.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 49482.2299818
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9251.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 186.956004275
+N 9301.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 49696.065072
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9301.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 187.15767509
+N 9351.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 49909.670379
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9351.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 187.358480411
+N 9401.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 50123.0473765
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9401.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 187.558428549
+N 9451.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 50336.1975209
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9451.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 187.757527693
+N 9501.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+currX 1.21756988648e+11 currH 6.08784943239e+11
+currX 60878493586.0 currH 3.04392467929e+11
+currX 30439246426.0 currH 1.52196232126e+11
+currX 15219623031.0 currH 76098115151.0
+currX 7609811426.0 currH 38049057127.0
+currX 3804905670.0 currH 19024528347.0
+currX 1902452815.0 currH 9512264073.0
+currX 951226399.0 currH 4756131993.0
+currX 475613197.0 currH 2378065983.0
+currX 237806599.0 currH 1189032992.0
+currX 118903301.0 currH 594516504.0
+currX 118903301.0 currH 594516504.0
+currX 118903301.0 currH 594516504.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 34780881430.3
+            Iterations: 2
+            Function evaluations: 16
+            Gradient evaluations: 2
+[  5.94516504e+08]
+Nodes 9501.0 optimal H 50.0 maxAttrMatching 10.0 throuhput 124.90533961
+N 9551.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 50761.8229911
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9551.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 188.153211158
+N 9601.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 50974.3011463
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9601.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 188.34981126
+N 9651.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 51186.5581072
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9651.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 188.545593939
+N 9701.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 51398.5952483
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9701.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 188.740566802
+N 9751.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 51610.4139285
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9751.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 188.934737348
+N 9801.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 51822.0154913
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9801.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 189.128112967
+N 9851.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 52033.4012653
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9851.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 189.320700943
+N 9901.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 52244.5725641
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9901.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 189.512508459
+N 9951.0
+
+
+currX 6.0 currH 30.0
+currX 6.0 currH 30.0
+currX 7.0 currH 31.0
+Inequality constraints incompatible    (Exit mode 4)
+            Current function value: 52455.5306868
+            Iterations: 1
+            Function evaluations: 3
+            Gradient evaluations: 1
+[ 30.]
+Nodes 9951.0 optimal H 30.0 maxAttrMatching 6.0 throuhput 189.703542595
