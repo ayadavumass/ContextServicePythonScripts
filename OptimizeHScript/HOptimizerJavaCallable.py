@@ -1,18 +1,33 @@
+# script that is called by the contextnet java system/program.
+# it returns the optimal value of H, considering both the replicated 
+# and basic subspace configurations.
+# refer to http://www14.in.tum.de/personen/raab/publ/balls.pdf for maximum balls and bins function
+
 import math
-from scipy.optimize import minimize
+#from scipy.optimize import minimize
 from scipy.optimize import fsolve
+import sys
+
 
 #result = minimize(f, [1])
 #print(result.x)
-rho        = 0.1
-#Yc        = 1.0
-N          = 36.0
+rho                             = 0.0
+#Yc                             = 1.0
+N                               = 4.0
 # calculated by single node throughput, not very accurate estimation but let's go with that for now.
 # specially if result size increases then estimation error might increase.
-CsByC      = 1.0/(69.55366816958512 * 4.0)
-CuByC      = 1.0/(153.74028685197356 * 4.0)
-B          = 20.0
-Aavg       = 4.0
+CsByC                           = 1.0/(69.55366816958512 * 4.0)
+CuByC                           = 1.0/(153.74028685197356 * 4.0)
+B                               = 20.0
+Aavg                            = 4.0
+
+BASIC_SUBSPACE_CONFIG           = 1
+REPLICATED_SUBSPACE_CONFIG      = 2
+
+# keys in the returned dictionary
+functionValKey                  = 'funcValKey'
+optimalHKey                     = 'optimalHKey'
+
 
 #
 # for calculating expected number of nodes a query goes to.
@@ -114,46 +129,49 @@ def maxBallsFun(currH, Aavg, B):
     print "No case matching. Not possible "
     return (Aavg*currH)/B
 
+# BASIC_SUBSPACE_CONFIG           = 1
+# REPLICATED_SUBSPACE_CONFIG      = 2
 # returns either NH/B nodes or sqrt(N) if sqrt(N) > B/H
-def getNumNodesForASubspace(B, currH, N):
-    # no replication case
-    if( (B/currH) > math.sqrt(N) ):
-        print "\n B = "+str(B)+" currH "+str(currH)+" N= "+str(N)+" choosing basic config \n"
+def getNumNodesForASubspace(B, currH, N, configType):
+    if( configType == BASIC_SUBSPACE_CONFIG ):
         return (N * currH)/B
-    else:
-        print "\n B = "+str(B)+" currH "+str(currH)+" N= "+str(N)+" choosing replicated config \n"
-        return math.ceil(math.sqrt(N))
-        
-def hyperspaceHashingModel( H, rho, N, CsByC, B, CuByC, Aavg ):
+    elif( configType == REPLICATED_SUBSPACE_CONFIG ):
+        # no replication case
+        if( (B/currH) > math.sqrt(N) ):
+            print "\n B = "+str(B)+" currH "+str(currH)+" N= "+str(N)+" choosing basic config \n"
+            return (N * currH)/B
+        else:
+            print "\n B = "+str(B)+" currH "+str(currH)+" N= "+str(N)+" choosing replicated config \n"
+            return math.ceil(math.sqrt(N))
+    
+def hyperspaceHashingModel(H, rho, N, CsByC, B, CuByC, Aavg, configType):
     #H = round(H)
     currX= maxBallsFun(H, Aavg, B)
-    #currX= Aavg
+    #currX = Aavg
     print "currX "+str(currX) +" currH "+str(H)
     if ( (currX > 0) ):
-        numNodesSubspace = getNumNodesForASubspace(B, H, N)
+        numNodesSubspace = getNumNodesForASubspace(B, H, N, configType)
         numNodesSearch = calculateExpectedNumNodesASearchGoesTo(numNodesSubspace, H, currX)
-        # total subspaces include replicated and non replicated subspaces.
         numTotalSubspsaces = N/numNodesSubspace
         return rho*numNodesSearch*CsByC + (1-rho) * numTotalSubspsaces * CuByC
     else:
         currX = (Aavg*H)/B
         print "Not a good value "
-        #numNodesSubspace = N/(B/H)
-        numNodesSubspace = getNumNodesForASubspace(B, H, N)
+        numNodesSubspace = getNumNodesForASubspace(B, H, N, configType)
         numNodesSearch = calculateExpectedNumNodesASearchGoesTo(numNodesSubspace, H, currX)
         numTotalSubspsaces = N/numNodesSubspace
         return rho*numNodesSearch*CsByC + (1-rho) * numTotalSubspsaces * CuByC
     
 # loops through all H values to check for optimal value of H
-def loopOptimizer(rho, N, CsByC, B, CuByC, Aavg):
+def loopOptimizer(rho, N, CsByC, B, CuByC, Aavg, configType):
     valueDict = {}
     optimalH  = -1.0
     minValue  = -1.0
-    currH     = 1.0
+    currH     = 2.0
     while( currH <= B ):
-        currValue = hyperspaceHashingModel(currH, rho, N, CsByC, B, CuByC, Aavg)
+        currValue = hyperspaceHashingModel(currH, rho, N, CsByC, B, CuByC, Aavg, configType)
         valueDict[currH] = currValue
-        if( currH == 1.0 ):
+        if( currH == 2.0 ):
             optimalH = currH
             minValue = currValue
         else:
@@ -161,59 +179,44 @@ def loopOptimizer(rho, N, CsByC, B, CuByC, Aavg):
                 optimalH = currH
                 minValue = currValue
         currH = currH + 1.0
-    
+    returnDict = {}
+    #functionValKey                  = 'funcValKey'
+    #optimalHKey                     = 'optimalHKey'
+    returnDict[functionValKey] = minValue
+    returnDict[optimalHKey] = optimalH
     print "rho "+ str(rho)+" optimalH "+str(optimalH)+" minValue "+str(minValue)+"\n"
+    return returnDict
     
+if(len(sys.argv) == 6):    
+    rho              = float(sys.argv[1])
+    N                = float(sys.argv[2])
+    # calculated by single node throughput, not very accurate estimation but let's go with that for now.
+    # specially if result size increases then estimation error might increase.
+    CsByC            = float(sys.argv[3])
+    CuByC            = float(sys.argv[4])
+    B                = float(sys.argv[5])
+    Aavg             = float(sys.argv[6])
 
-rho = 0.0
-while (rho <= 1.0):
-    print "###################################"
-    print "rho "+ str(rho)
-    #Optimizer(rho, N, CsByC, B, CuByC, Aavg)
-    loopOptimizer(rho, N, CsByC, B, CuByC, Aavg)
-    print "###################################"
-    print "\n\n\n\n"
-    rho = rho + 0.1    
-    
-    
+# 1 for basic config, 2 replicated config
+#configType       = float(sys.argv[7])
 
-#Optimizer(0.0, N, CsByC, B, CuByC, Aavg)
-#Optimizer(1.0, N, CsByC, B, CuByC, Aavg)
-#currNumNodes = 1.0
-#currH = 4.0
-#currM = 2.0
-#while(currNumNodes <= 36.0):
-#    numSearchNodes = calculateExpectedNumNodesASearchGoesTo(currNumNodes, currH, currM)
-#    print "expected search nodes for "+str(currNumNodes)+" nodes "+str(numSearchNodes)
-#    currNumNodes = currNumNodes + 1.0
+# BASIC_SUBSPACE_CONFIG           = 1
+# REPLICATED_SUBSPACE_CONFIG      = 2
 
-# def Optimizer(rho, N, CsByC, B, CuByC, Aavg):
-#     start_pos = 12.0
-#     #Says one minus the sum of all variables must be zero
-#     cons = ({'type': 'ineq', 'fun': lambda x:  B - x}, {'type': 'ineq', 'fun': lambda x:  x-2})
-#     
-#     #opt = {'maxiter': 1, 'disp':True}
-#     opt = {'disp':True}
-# 
-#     bnds = [(1, B)]
-#     #Required to have non negative values
-#     #bnds = tuple((0,B) for x in start_pos)
-#     
-#     #result = minimize(hyperspaceHashingModel, start_pos, method='SLSQP', constraints=cons, options=opt)
-#     data = (rho, N, CsByC, B, CuByC, Aavg)
-#     result = minimize(hyperspaceHashingModel, start_pos, method='SLSQP', constraints=cons, options=opt, args = data, bounds = bnds)
-#     print(result.x)
-#     optimalH = result.x[0]
-#     if(optimalH > B):
-#         optimalH = B
-#     maxAttrMatching = maxBallsFun(optimalH, Aavg, B)
-#     
-#     if(maxAttrMatching > optimalH):
-#         exponent = maxAttrMatching/optimalH
-#     else:
-#         exponent = maxAttrMatching/optimalH
-#     
-#     print "rho "+str(rho)+" optimal H "+str(optimalH)+" maxAttrMatching "+str(maxAttrMatching)+" exponent "+ str(exponent) +"\n"
-#     #denominatorValue = rho*math.pow(Yc, maxAttrMatching)*math.pow(N,1-(maxAttrMatching/optimalH) )*Cs + (1-rho) * (B/optimalH) * Cu
-#     #T = N * C/denominatorValue
-#     #print "rho "+str(rho)+" optimal H "+str(optimalH)+" maxAttrMatching "+str(maxAttrMatching)+" exponent "+ str(exponent) +" throuhput "+str(T)
+basicResultDict = loopOptimizer(rho, N, CsByC, B, CuByC, Aavg, BASIC_SUBSPACE_CONFIG)
+repResultDict = loopOptimizer(rho, N, CsByC, B, CuByC, Aavg, REPLICATED_SUBSPACE_CONFIG)
+
+# compare which scheme is better, replicated or basic configuration
+#functionValKey                  = 'funcValKey'
+#optimalHKey                     = 'optimalHKey'
+
+basicFuncValue = basicResultDict[functionValKey]
+repFuncValue = repResultDict[functionValKey]
+
+# basic config better
+if( basicFuncValue <= repFuncValue ):
+    print "BASIC OPTIMIZATION RESULT H "+str(basicResultDict[optimalHKey])+" MINVALUE "+str(basicFuncValue) \
+    +" OTHERVAL "+str(repFuncValue)
+else:
+    print "REPLICATED OPTIMIZATION RESULT H "+str(repResultDict[optimalHKey])+" MINVALUE "+str(repFuncValue) \
+    +" OTHERVAL "+str(basicFuncValue)
